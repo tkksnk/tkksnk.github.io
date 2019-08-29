@@ -13,8 +13,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -158,7 +158,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  # - assets
+  - assets
 keep_files:
   - .git
   - .svn
