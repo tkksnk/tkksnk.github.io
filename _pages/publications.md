@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+<br>
 
 0. Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models. Forthcoming in ***Computational Economics***, August 2019. [Journal website](https://doi.org/10.1007/s10614-019-09914-x) / [github repository](https://github.com/tkksnk/Xpa)
 
