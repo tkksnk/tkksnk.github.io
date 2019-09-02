@@ -69,7 +69,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : tkksnk
+  username               : # tkksnk
 facebook:
   username               :
   app_id                 :
@@ -121,7 +121,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tkksnk"
+  twitter          : # "tkksnk"
   vine             :
   weibo            :
   xing             :
