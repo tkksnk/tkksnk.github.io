@@ -9,9 +9,9 @@ author_profile: true
 
 ### University of Tokyo
 
-* Macroeconomics for Public Policy syllabus
+* Macroeconomics for Public Policy [syllabus](/files/syllabus_macropp_2017.pdf){:target="_blank"}
 
-* Principles in Macroeconomics syllabus
+* Principles in Macroeconomics
 
 ### Tohoku University
 
@@ -25,7 +25,7 @@ author_profile: true
 
 ### University of Mannheim
 
-* Quantitative Methods for Monetary Economics syllabus website
+* Quantitative Methods for Monetary Economics [syllabus](/files/qmmeum_schedule.pdf){:target="_blank"} [website](https://github.com/tkksnk/qmme){:target="_blank"}
 
 <!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
