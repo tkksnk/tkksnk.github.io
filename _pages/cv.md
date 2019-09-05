@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my vita [here](https://www.dropbox.com/s/706sey8y8segouu/cv_sunakawa_190115_web.pdf?dl=0) (PDF, updated on January 15, 2019).
+Please find my vita [here](https://tkksnk.github.io/md-cv/).
 
 <!-- Education
 ---------
