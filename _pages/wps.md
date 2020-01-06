@@ -25,9 +25,9 @@ author_profile: true
 
 * Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) In progress.
 
-* [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. Submitted.
+* [The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.dropbox.com/s/j4nh0k3aamean6i/NaturalRateNonlinear15.pdf?dl=0){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) January 2019. Revision requested from ***International Journal of Central Banking***. The previous version is available as CAMA Working Paper Series 38/2017.
 
-* [The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.dropbox.com/s/j4nh0k3aamean6i/NaturalRateNonlinear15.pdf?dl=0){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) January 2019. Submitted. The previous version is available as CAMA Working Paper Series 38/2017.
+* [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019.
 
 * Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
 
