@@ -19,7 +19,7 @@ author_profile: true
 
 ### *Heterogeneous-agent macro models:*
 
-* [Is Household Heterogeneity Important for Business Cycles?](https://drive.google.com/file/d/1OhIt9HPm78sW-BccHb0CFVIj3OioXXgh/view){:target="_blank"} (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) January 2019. Revised draft coming soon.
+* [Is Household Heterogeneity Important for Business Cycles?](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"} (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. Submitted.
 
 ### *Nonlinear solution and estimation methods for DSGE models:*
 
