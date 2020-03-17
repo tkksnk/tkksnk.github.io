@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- <br/> -->
 
-0. [Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. Forthcoming in ***Computational Economics***, August 2019. [Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}
+0. [Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. ***Computational Economics***, 55(3), 845-874, March 2020. [Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}
 
 0. [Sustainable International Monetary Policy Cooperation](https://github.com/phantomachine/OSIMP/blob/master/MainPaper-2019-07-13.pdf){:target="_blank"}. (joint with [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/){:target="_blank"} and [Timothy Kam](https://phantomachine.github.io/){:target="_blank"}) ***Journal of Economic Dynamics and Control***, 106, 103721, September 2019. [Journal website](https://doi.org/10.1016/j.jedc.2019.103721){:target="_blank"} / [Github repository](https://github.com/phantomachine/OSIMP){:target="_blank"} (including the online appendix)
 
