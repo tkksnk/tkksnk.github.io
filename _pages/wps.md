@@ -15,8 +15,6 @@ author_profile: true
 
 * [Credible Forward Guidance](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) FEDS Working Paper 2019-037, April 2019. Submitted.
 
-* [A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) FEDS Working Paper 2018-083, July 2018. Revision requested from <span style="color: blue; ">***Oxford Bulletin of Economics and Statistics***</span>.
-
 ### *Heterogeneous-agent macro models:*
 
 * [Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. Submitted.
