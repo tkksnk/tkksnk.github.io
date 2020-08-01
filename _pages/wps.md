@@ -13,7 +13,7 @@ author_profile: true
 
 ### *Optimal Monetary Policy:*
 
-* [Credible Forward Guidance](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) FEDS Working Paper 2019-037, April 2019. Submitted.
+* [Credible Forward Guidance](/files/NASM2013-492.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) August 2020. Submitted. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
 
 ### *Heterogeneous-agent macro models:*
 
@@ -21,7 +21,7 @@ author_profile: true
 
 ### *Nonlinear solution and estimation methods for DSGE models:*
 
-* Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) Revised draft coming soon.
+* Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) Revised draft is coming soon.
 
 * [The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.dropbox.com/s/j4nh0k3aamean6i/NaturalRateNonlinear15.pdf?dl=0){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) January 2019. Revision requested from <span style="color: blue; ">***International Journal of Central Banking***</span>. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
 
@@ -31,7 +31,7 @@ author_profile: true
 
 ### *Others:*
 
-* [Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012.
+* [Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012. Revised draft is coming soon.
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
