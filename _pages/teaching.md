@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Current
-
 ### Hitotsubashi University
 
 * Advanced Macroeconomics (Ph.D. Core)
@@ -17,7 +15,7 @@ author_profile: true
 
 * Quantitative Methods for Macroeconomics (graduate)
 
-## Past (selected)
+## Selected Past Teaching
 
 ### University of Tokyo
 
