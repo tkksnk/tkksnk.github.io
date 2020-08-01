@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+### Hitotsubashi University
+
+* Advanced Macroeconomics (Ph.D. Core)
+
+* Macroeconomics (Introduction to DSGE models, undergraduate)
+
+* Quantitative Methods for Macroeconomics (graduate)
+
 ### University of Tokyo
 
 * Macroeconomics for Public Policy [syllabus](/files/syllabus_macropp_2017.pdf){:target="_blank"}
