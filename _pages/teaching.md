@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+## Current
+
 ### Hitotsubashi University
 
 * Advanced Macroeconomics (Ph.D. Core)
@@ -15,10 +17,13 @@ author_profile: true
 
 * Quantitative Methods for Macroeconomics (graduate)
 
+## Past (selected)
+
 ### University of Tokyo
 
 * Macroeconomics for Public Policy [syllabus](/files/syllabus_macropp_2017.pdf){:target="_blank"}
 
+<!--
 * Principles in Macroeconomics
 
 ### Tohoku University
@@ -30,6 +35,7 @@ author_profile: true
 * International Finance
 
 * Quantitative Methods for Monetary Economics
+-->
 
 ### University of Mannheim
 
