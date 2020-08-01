@@ -11,9 +11,9 @@ author_profile: true
 
 * Advanced Macroeconomics (Ph.D. Core)
 
-* Macroeconomics (Introduction to DSGE models, undergraduate)
-
 * Quantitative Methods for Macroeconomics (graduate)
+
+* Intermediate Macroeconomics (undergraduate)
 
 ## Selected Past Teaching
 
