@@ -17,9 +17,9 @@ author_profile: true
 
 ### *Heterogeneous-agent macro models:*
 
-* [Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. Submitted.
+* [Heterogeneity, Transfer Progressivity and Business Cycles](/files/HAT_Eev_v3.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. Submitted.
 
-* [Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper200901.pdf){:target="_blank"}. (joint with Masakazu Emoto) September 2020.
+* [Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper200909.pdf){:target="_blank"}. (joint with Masakazu Emoto) September 2020.
 
 ### *Nonlinear solution and estimation methods for DSGE models:*
 
