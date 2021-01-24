@@ -17,9 +17,9 @@ author_profile: true
 
 ### *Heterogeneous-agent macro models:*
 
-* [Heterogeneity, Transfer Progressivity and Business Cycles](/files/HAT_Rev_v3.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. Submitted. [Github repository](https://github.com/Masakazu-Emoto/XPA-in-Continuous-Time){:target="_blank"}
+* [Heterogeneity, Transfer Progressivity and Business Cycles](/files/HAT_Rev_v3.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020.
 
-* [Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210117EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) January 2021. Submitted.
+* [Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210117EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) January 2021. Submitted. Submitted. [Github repository](https://github.com/Masakazu-Emoto/XPA-in-Continuous-Time){:target="_blank"}
 
 ### *Nonlinear solution and estimation methods for DSGE models:*
 
