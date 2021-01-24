@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- <br/> -->
 
-0. [A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Oxford Bulletin of Economics and Statistics***, forthcoming.
+0. [A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Oxford Bulletin of Economics and Statistics***, 83(1), 176-198, February 2021. [Journal website](https://doi.org/10.1111/obes.12401){:target="_blank"}
 
 0. [Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. ***Computational Economics***, 55(3), 845-874, March 2020. [Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}
 
