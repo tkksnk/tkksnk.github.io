@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently an assistant professor at [the Graduate School of Economics, Hitotsubashi University](http://www.econ.hit-u.ac.jp/eng/index.html). Previously I was at Kobe University, the University of Tokyo, and the Bank of Japan. I received a Ph.D. in Economics at [the Ohio State University](https://economics.osu.edu/).
 
+日本経済学会2021年春季大会「定量的マクロ経済学の数値計算方法と応用」のスライドとコードへの[リンク](https://github.com/tkksnk/JEAtutorial2021Spring)
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
