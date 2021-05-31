@@ -11,9 +11,9 @@ author_profile: true
 
 * Advanced Macroeconomics (Ph.D. Core)
 
-* Quantitative Methods for Macroeconomics (graduate)
+* Special Topics in Macroeconomics (graduate)
 
-* Intermediate Macroeconomics (undergraduate)
+* Macroeconomics (undergraduate)
 
 ## Selected Past Teaching
 
@@ -41,9 +41,9 @@ author_profile: true
 
 ### 日本経済学会2021年度春季大会（5月15日）「定量的マクロ経済学の数値計算方法と応用」(in Japanese)
 
-私のパートで使用したスライドとコードは[ここをクリック](https://github.com/tkksnk/JEAtutorial2021Spring)
+* 私のパートで使用したスライドとコードは[ここをクリック](https://github.com/tkksnk/JEAtutorial2021Spring)
 
-他の発表者のパート
+* 他の発表者のパート
 [山田さんのHP](https://sites.google.com/site/tyamadaeconomics/computation) / [北尾さんのHP](https://sites.google.com/site/sagirikitao/teaching)
 
 <!-- {% for post in site.teaching reversed %}
