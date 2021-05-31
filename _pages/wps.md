@@ -17,13 +17,11 @@ author_profile: true
 
 ### *Heterogeneous-agent macro models:*
 
-* [Heterogeneity, Transfer Progressivity and Business Cycles](/files/HAT_Rev_v3.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) February 2020.  Revision requested from <span style="color: blue; ">***Quantitative Economics***</span>.
-
-* [Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210117EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) January 2021. Revision requested from <span style="color: blue; ">***Economics Letters***</span>. [Github repository](https://github.com/Masakazu-Emoto/XPA-in-Continuous-Time){:target="_blank"}
+* [Heterogeneity, Transfer Progressivity and Business Cycles](/files/HAT_Revised.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) April 2021.  Revision requested from <span style="color: blue; ">***Quantitative Economics***</span>.
 
 ### *Nonlinear solution and estimation methods for DSGE models:*
 
-* [The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.dropbox.com/s/j4nh0k3aamean6i/NaturalRateNonlinear15.pdf?dl=0){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) January 2019. Revision requested from <span style="color: blue; ">***International Journal of Central Banking***</span>. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
+* [The Natural Rate of Interest in a Nonlinear DSGE Model](/files/NaturalRateNonlinear24.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) April 2021. Revision requested from <span style="color: blue; ">***International Journal of Central Banking***</span>. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
 
 * Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"})
 
