@@ -13,7 +13,7 @@ author_profile: true
 
 ### *Monetary Policy:*
 
-* [Credible Forward Guidance](/files/CFG_CARF.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) July 2020. <span style="color: red; ">Submitted</span>. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
+* [Credible Forward Guidance](/files/CFG_CARF.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) July 2020. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
 
 ### *Heterogeneous-agent macro models:*
 
@@ -21,7 +21,7 @@ author_profile: true
 
 ### *Nonlinear solution and estimation methods for DSGE models:*
 
-* [The Natural Rate of Interest in a Nonlinear DSGE Model](/files/NaturalRateNonlinear24.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) April 2021. Accepted with minor revisions from <span style="color: blue; ">***International Journal of Central Banking***</span>. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
+* [The Natural Rate of Interest in a Nonlinear DSGE Model](/files/NaturalRateNonlinear24.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) April 2021. <span style="color: red; ">Accepted with minor revisions from</span> <span style="color: blue; ">***International Journal of Central Banking***</span>. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
 
 * Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"})
 
