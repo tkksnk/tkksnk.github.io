@@ -30,6 +30,3 @@ author_profile: true
 <!-- ### *Others:* -->
 
 * [Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012.
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
