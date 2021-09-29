@@ -15,7 +15,7 @@ author_profile: true
 
 0. [The Natural Rate of Interest in a Nonlinear DSGE Model](/files/NaturalRateNonlinear25.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***International Journal of Central Banking***, Accepted, September 2021. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
 
-0. [Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210410EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) ***Economics Letters***, 206, 109940, September 2021. [Journal website](https://doi.org/10.1016/j.econlet.2021.109940){:target="_blank"} [Github repository](https://github.com/Masakazu-Emoto/XPA-in-Continuous-Time){:target="_blank"}
+0. [Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210410EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) ***Economics Letters***, 206, 109940, September 2021. [Journal website](https://doi.org/10.1016/j.econlet.2021.109940){:target="_blank"} / [Github repository](https://github.com/Masakazu-Emoto/XPA-in-Continuous-Time){:target="_blank"}
 
 0. [A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Oxford Bulletin of Economics and Statistics***, 83(1), 176-198, February 2021. [Journal website](https://doi.org/10.1111/obes.12401){:target="_blank"}
 
