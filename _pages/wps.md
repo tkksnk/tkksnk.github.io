@@ -23,9 +23,9 @@ author_profile: true
 
 * Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2020.
 
-* [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019.
-
 * Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
+
+* [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019.
 
 <!-- ### *Others:* -->
 
