@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my vita [here](https://tkksnk.github.io/md-cv/){:target="_blank"}.
+Please find my vita [here](https://tkksnk.github.io/markdown-cv/){:target="_blank"}.
 
 <!-- Education
 ---------

@@ -11,9 +11,9 @@ author_profile: true
 
 * Advanced Macroeconomics (Ph.D. Core)
 
-* Special Topics in Macroeconomics (graduate)
+* Special Topics in Macroeconomics [A](https://github.com/tkksnk/macrotopicsA2020){:target="_blank"}, [B](https://github.com/tkksnk/macrotopicsB2021){:target="_blank"} (graduate) 
 
-* Macroeconomics (undergraduate)
+* Macroeconomics I, II (undergraduate)
 
 ## Selected Past Teaching
 
