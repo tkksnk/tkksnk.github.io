@@ -33,7 +33,7 @@ author_profile: true
 
 ### Policy related works
 
-* [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. June 2022.
+* [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, Daisuke Fujii, and Taisuke Nakata) June 2022.
 
 * A Measure of Monthly State-level Output in Japan. Work in progress.
 

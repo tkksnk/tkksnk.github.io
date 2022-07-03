@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor at [the Graduate School of Economics, Hitotsubashi University](http://www.econ.hit-u.ac.jp/eng/index.html). Previously I was at Kobe University, the University of Tokyo, and the Bank of Japan. I received a Ph.D. in Economics at [the Ohio State University](https://economics.osu.edu/). My research interests are in Macroeconomics, Monetary Policy, and Computational Economics.
+I am currently an associate professor at [the Graduate School of Economics, Hitotsubashi University](http://www.econ.hit-u.ac.jp/eng/index.html){:target="_blank"}. Previously I was at Kobe University, the University of Tokyo, and the Bank of Japan. I received a Ph.D. in Economics at [the Ohio State University](https://economics.osu.edu/){:target="_blank"}. My research interests are in Macroeconomics, Monetary Policy, and Computational Economics.
 
-I am also a fellow of [TCER (Tokyo Center for Economic Research)](https://www.tcer.or.jp/) and an advisor of [UTEcon](https://utecon.net/en/).
+I am also a fellow of [TCER (Tokyo Center for Economic Research)](https://www.tcer.or.jp/en/){:target="_blank"} and an advisor of [UTEcon](https://utecon.net/en/){:target="_blank"}.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
