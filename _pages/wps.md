@@ -17,7 +17,7 @@ author_profile: true
 
 <!-- ### *Monetary Policy:* -->
 
-* [Credible Forward Guidance](/files/CFG_CARF.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) July 2020. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
+* [Credible Forward Guidance](/files/CFG_CARF.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) July 2020.  Revision requested from <span style="color: blue; ">***Journal of Economic Dynamics and Control***</span>.  [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
 
 <!-- ### *Nonlinear solution and estimation methods for DSGE models:* -->
 
