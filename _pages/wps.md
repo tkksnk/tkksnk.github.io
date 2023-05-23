@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-* [Credible Forward Guidance](/files/CFG_2023_0328.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
+* [Credible Forward Guidance](/files/CFG_2023_0328.pdf){:target="_blank"}. (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023. Revision requested from <span style="color: blue; ">***Journal of Economic Dynamics and Control***</span>. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
 
-* [Heterogeneity, Transfer Progressivity and Business Cycles](/files/HAT_Revised_Jan2023_RR2.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) January 2023.  Revision requested from <span style="color: blue; ">***Quantitative Economics***</span>.
+* [Heterogeneity, Transfer Progressivity and Business Cycles](/files/HAT_Revised_Jan2023_RR2.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) January 2023. Revision requested from <span style="color: blue; ">***Quantitative Economics***</span>.
 
 * Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2020.
 
