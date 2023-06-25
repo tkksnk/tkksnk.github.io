@@ -13,6 +13,8 @@ author_profile: true
 
 <!-- <br/> -->
 
+0. [Credible Forward Guidance](/files/CFG_2023_0328.pdf){:target="_blank"}. (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023. Accepted by ***Journal of Economic Dynamics and Control***. The previous version including the analysis with the static Phillips curve is available [here]](/files/CFG_CARF.pdf){:target="_blank"}.
+
 0. [Tax-and-Transfer Progressivity and Business Cycles](/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) June 2023. Accepted by ***Quantitative Economics***.
 
 0. [The Natural Rate of Interest in a Nonlinear DSGE Model](/files/NaturalRateNonlinear25.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***International Journal of Central Banking***, 19(1), 301-339, March 2023. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
