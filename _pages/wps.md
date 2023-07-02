@@ -25,7 +25,7 @@ author_profile: true
 
 * A Measure of Monthly State-level Output in Japan. (joint with Daisuke Fujii and Taisuke Nakata) Work in progress.
 
-## Works in Progress
+## Selected works in progress
 
 * Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"})
 
