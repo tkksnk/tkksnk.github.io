@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-* Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2020.
-
 * Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
 
 <!-- * [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. -->
@@ -20,6 +18,16 @@ author_profile: true
 <!-- ### *Others:* -->
 
 * [Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012.
+
+### Works in Progress
+
+* Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"})
+
+* Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"})
+
+* Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Hiroyuki Kubota)
+
+* Solving Loose Commitment with Occasionally Binding Constraints (joint with [Kohei Hasui](https://khas.bitbucket.io/){:target="_blank"})
 
 ### Policy related works
 
