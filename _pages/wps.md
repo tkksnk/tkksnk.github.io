@@ -25,6 +25,8 @@ author_profile: true
 
 * Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"})
 
+* Government Multipliers in HANK models (joint with Masakazu Emoto)
+
 * Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Hiroyuki Kubota)
 
 * Solving Loose Commitment with Occasionally Binding Constraints (joint with [Kohei Hasui](https://khas.bitbucket.io/){:target="_blank"})
