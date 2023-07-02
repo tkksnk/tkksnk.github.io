@@ -19,7 +19,13 @@ author_profile: true
 
 * [Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012.
 
-### Works in Progress
+## Policy related works
+
+* [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, Daisuke Fujii, and Taisuke Nakata) June 2022.
+
+* A Measure of Monthly State-level Output in Japan. (joint with Daisuke Fujii and Taisuke Nakata) Work in progress.
+
+## Works in Progress
 
 * Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"})
 
@@ -30,11 +36,3 @@ author_profile: true
 * Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Hiroyuki Kubota)
 
 * Solving Loose Commitment with Occasionally Binding Constraints (joint with [Kohei Hasui](https://khas.bitbucket.io/){:target="_blank"})
-
-### Policy related works
-
-* [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, Daisuke Fujii, and Taisuke Nakata) June 2022.
-
-* A Measure of Monthly State-level Output in Japan. (joint with Daisuke Fujii and Taisuke Nakata) Work in progress.
-
-
