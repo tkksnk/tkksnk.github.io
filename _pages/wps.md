@@ -27,12 +27,14 @@ author_profile: true
 
 ## Selected works in progress
 
-* Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"})
-
 * Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"})
 
-<!-- * Government Multipliers in HANK models (joint with Masakazu Emoto) -->
+* Tax and Transfers over Time and Changing Aggregate Fluctuations (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"})
 
 * Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Hiroyuki Kubota)
 
+<!-- * Government Multipliers in HANK models (joint with Masakazu Emoto) -->
+
 <!-- * Solving Loose Commitment with Occasionally Binding Constraints (joint with [Kohei Hasui](https://khas.bitbucket.io/){:target="_blank"}) -->
+
+<!-- * Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) -->
