@@ -12,10 +12,9 @@ author_profile: true
 {% include base_path %}
 
 <!-- <br/> -->
+0. [Tax-and-Transfer Progressivity and Business Cycles](/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) July 2023. Forthcoming in ***Quantitative Economics***.
 
-0. [Credible Forward Guidance](/files/CFG_2023_0328.pdf){:target="_blank"}. (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023. Accepted by ***Journal of Economic Dynamics and Control***. The previous version including the analysis with the static Phillips curve is available [here](/files/CFG_220410.pdf){:target="_blank"}.
-
-0. [Tax-and-Transfer Progressivity and Business Cycles](/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) June 2023. Accepted by ***Quantitative Economics***.
+0. [Credible Forward Guidance](/files/CFG_2023_0328.pdf){:target="_blank"}. (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Journal of Economic Dynamics and Control***, 153, 104699, August 2023. [Journal website](https://doi.org/10.1016/j.jedc.2023.104699). The previous version including the analysis with the static Phillips curve is available [here](/files/CFG_220410.pdf){:target="_blank"}.
 
 0. [The Natural Rate of Interest in a Nonlinear DSGE Model](/files/NaturalRateNonlinear25.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***International Journal of Central Banking***, 19(1), 301-339, March 2023. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
 
