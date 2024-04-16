@@ -25,6 +25,10 @@ author_profile: true
 
 * [A Measure of Monthly State-level Output in Japan](/files/FNS_20240409.pdf){:target="_blank"}. (joint with Daisuke Fujii and Taisuke Nakata) April 2024.
 
+* [Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks]. 
+
+* [The Optimal Quantity of CBDC in Japan]. (joint with Junko Ishikawa and Meylis Orazov)
+
 ## Selected works in progress
 
 * Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"})
