@@ -9,6 +9,8 @@ author_profile: true
 
 ### Hitotsubashi University
 
+* Intermediate Macroeconomics (Ph.D. Core)
+
 * Advanced Macroeconomics (Ph.D. Core)
 
 * Special Topics in Macroeconomics [A](https://github.com/tkksnk/macrotopicsA2020){:target="_blank"}, [B](https://github.com/tkksnk/macrotopicsB2021){:target="_blank"} (graduate) 

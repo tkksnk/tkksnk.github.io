@@ -23,15 +23,15 @@ author_profile: true
 
 * [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, Daisuke Fujii, and Taisuke Nakata) June 2022.
 
-* A Measure of Monthly State-level Output in Japan. (joint with Daisuke Fujii and Taisuke Nakata) Work in progress.
+* [A Measure of Monthly State-level Output in Japan](/files/FNS_20240409.pdf){:target="_blank"}. (joint with Daisuke Fujii and Taisuke Nakata) April 2024.
 
 ## Selected works in progress
 
 * Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"})
 
-* Tax and Transfers over Time and Changing Aggregate Fluctuations (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"})
+* A Business Cycle Assessment of Joint Taxation of Married Couples (joint with [Minchul Yum](https://minchulyum.github.io/){:target="_blank"})
 
-* Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Hiroyuki Kubota)
+* Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Elnura Baiaman kyzy and Hiroyuki Kubota)
 
 <!-- * Government Multipliers in HANK models (joint with Masakazu Emoto) -->
 

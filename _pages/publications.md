@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <!-- <br/> -->
-0. [Tax-and-Transfer Progressivity and Business Cycles](/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) July 2023. Forthcoming in ***Quantitative Economics***.
+0. [Tax-and-Transfer Progressivity and Business Cycles](/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) ***Quantitative Economics***, 14(4), 1367-1400, November 2023.
 
 0. [Credible Forward Guidance](/files/CFG_2023_0328.pdf){:target="_blank"}. (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Journal of Economic Dynamics and Control***, 153, 104699, August 2023. [Journal website](https://doi.org/10.1016/j.jedc.2023.104699). The previous version including the analysis with the static Phillips curve is available [here](/files/CFG_220410.pdf){:target="_blank"}.
 
