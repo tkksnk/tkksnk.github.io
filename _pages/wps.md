@@ -25,9 +25,9 @@ author_profile: true
 
 * [A Measure of Monthly State-level Output in Japan](/files/FNS_20240409.pdf){:target="_blank"}. (joint with Daisuke Fujii and Taisuke Nakata) April 2024.
 
-* [Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks]. 
+* Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks. 
 
-* [The Optimal Quantity of CBDC in Japan]. (joint with Junko Ishikawa and Meylis Orazov)
+* The Optimal Quantity of CBDC in Japan. (joint with Junko Ishikawa and Meylis Orazov)
 
 ## Selected works in progress
 
