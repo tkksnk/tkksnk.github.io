@@ -23,8 +23,6 @@ author_profile: true
 
 * [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, Daisuke Fujii, and Taisuke Nakata) June 2022.
 
-* [A Measure of Monthly State-level Output in Japan](/files/FNS_20240409.pdf){:target="_blank"}. (joint with Daisuke Fujii and Taisuke Nakata) April 2024.
-
 * Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks. 
 
 * The Optimal Quantity of CBDC in Japan. (joint with Junko Ishikawa and Meylis Orazov)
