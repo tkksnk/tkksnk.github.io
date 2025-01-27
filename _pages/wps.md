@@ -21,6 +21,8 @@ author_profile: true
 
 ## Policy related works
 
+* [On the Interaction between Monetary and Fiscal Policy: Developments in Macroeconomics since the Global Financial Crisis](https://www.imes.boj.or.jp/research/abstracts/english/24-E-12.html){:target="_blank"}. (joint with Mitsuru Katagiri, Yusuke Oh, Yasutaka Ogawa, and Nao Sudo) Bank of Japan IMES Discussion Paper Series 2024-E-12, October 2024.
+
 * [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, Daisuke Fujii, and Taisuke Nakata) June 2022.
 
 * Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks. 
@@ -29,7 +31,7 @@ author_profile: true
 
 ## Selected works in progress
 
-* Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"})
+<!-- * Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"}) -->
 
 * A Business Cycle Assessment of Joint Taxation of Married Couples (joint with [Minchul Yum](https://minchulyum.github.io/){:target="_blank"})
 
