@@ -21,9 +21,9 @@ author_profile: true
 
 ## Policy related works
 
-* [On the Interaction between Monetary and Fiscal Policy: Developments in Macroeconomics since the Global Financial Crisis](https://www.imes.boj.or.jp/research/abstracts/english/24-E-12.html){:target="_blank"}. (joint with Mitsuru Katagiri, Yusuke Oh, Yasutaka Ogawa, and Nao Sudo) Bank of Japan IMES Discussion Paper Series 2024-E-12, October 2024.
+* [On the Interaction between Monetary and Fiscal Policy: Developments in Macroeconomics since the Global Financial Crisis](https://www.imes.boj.or.jp/research/abstracts/english/24-E-12.html){:target="_blank"}. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}, Yusuke Oh, Yasutaka Ogawa, and [Nao Sudo](https://sites.google.com/site/naosudo2012/){:target="_blank"}) Bank of Japan IMES Discussion Paper Series 2024-E-12, October 2024.
 
-* [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, Daisuke Fujii, and Taisuke Nakata) June 2022.
+* [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, [Daisuke Fujii](https://sites.google.com/site/fujii0622/home), and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) June 2022.
 
 * Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks. 
 
@@ -35,7 +35,7 @@ author_profile: true
 
 * A Business Cycle Assessment of Joint Taxation of Married Couples (joint with [Minchul Yum](https://minchulyum.github.io/){:target="_blank"})
 
-* Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Elnura Baiaman kyzy and Hiroyuki Kubota)
+* Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Elnura Baiaman kyzy and [Hiroyuki Kubota](https://sites.google.com/view/hiroyuki-kubota/){:target="_blank"})
 
 <!-- * Government Multipliers in HANK models (joint with Masakazu Emoto) -->
 
