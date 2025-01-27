@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <!-- <br/> -->
-0. [A Measure of Monthly State-level Output in Japan](/files/FNS_20240409.pdf){:target="_blank"}. (joint with [Daisuke Fujii](https://sites.google.com/site/fujii0622/home) and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) Conditionally accepted at ***Japanese Economic Review***, September 2024.
+0. [A Measure of Monthly State-level Output in Japan](/files/FNS_20240409.pdf){:target="_blank"}. (joint with [Daisuke Fujii](https://sites.google.com/site/fujii0622/home) and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) Accepted at ***Japanese Economic Review***, January 2025.
 
 0. [Tax-and-Transfer Progressivity and Business Cycles](/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://minchulyum.github.io/){:target="_blank"}) ***Quantitative Economics***, 14(4), 1367-1400, November 2023.
 
