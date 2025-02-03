@@ -25,7 +25,7 @@ author_profile: true
 
 * [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, [Daisuke Fujii](https://sites.google.com/site/fujii0622/home), and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) June 2022.
 
-* Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks. 
+* Fiscal Inflation in Japan: The Role of Unfunded Transfer Shocks. 
 
 * The Optimal Quantity of CBDC in Japan. (joint with Junko Ishikawa and Meylis Orazov)
 
