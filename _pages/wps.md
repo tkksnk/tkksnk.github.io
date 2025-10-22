@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- ## Policy related works -->
 
-* [The Optimal Quantity of CBDC in Japan](/files/CBDC_251023.pdf){:target="_blank"}. (joint with Junko Ishikawa and Meylis Orazov) October 2025.
+* [Household Payment Behavior and the Optimal Quantity of CBDC in Japan](/files/CBDC_251023.pdf){:target="_blank"}. (joint with Junko Ishikawa and Meylis Orazov) October 2025.
 
 * [Fiscal Inflation in Japan: The Role of Unfunded Transfer Shocks](/files/Fiscal_2509.pdf){:target="_blank"}. September 2025. 
 
