@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+* Speed Limit Policy and Liquidity Traps (joint with Taisuke Nakata(https://sites.google.com/site/taisukenakata/){:target="_blank"}), Sebastian Schmidt(https://sites.google.com/site/econschmidt/), and Paul Yoo(https://www.paulyoo.net/)) April 2026.
+
 * Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
 
 <!-- * [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. -->
