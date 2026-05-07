@@ -13,6 +13,8 @@ author_profile: true
 
 * Speed Limit Policy and Liquidity Traps (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}, [Sebastian Schmidt](https://sites.google.com/site/econschmidt/), and [Paul Yoo](https://www.paulyoo.net/)) April 2026.
 
+* [Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models](/files/IFvsKF_2024Feb) (joint with Elnura Baiaman kyzy and [Hiroyuki Kubota](https://sites.google.com/view/hiroyuki-kubota/){:target="_blank"}) February 2024.
+
 * Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
 
 <!-- * [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. -->
@@ -32,8 +34,6 @@ author_profile: true
 * Housing Wealth and Intergenerational Inequality: The Role of Immigration and Tax Concessions in Australia (joint with [Timothy Kam](https://phantomachine.github.io/index.html) and Tina Kao)
 
 * A Business Cycle Assessment of Joint Taxation of Married Couples (joint with [Minchul Yum](https://minchulyum.github.io/){:target="_blank"})
-
-* Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Elnura Baiaman kyzy and [Hiroyuki Kubota](https://sites.google.com/view/hiroyuki-kubota/){:target="_blank"})
 
 <!-- * Government Multipliers in HANK models (joint with Masakazu Emoto) -->
 
