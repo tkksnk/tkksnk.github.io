@@ -25,8 +25,6 @@ author_profile: true
 
 * [On the Interaction between Monetary and Fiscal Policy: Developments in Macroeconomics since the Global Financial Crisis](https://www.imes.boj.or.jp/research/abstracts/english/24-E-12.html){:target="_blank"}. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}, Yusuke Oh, Yasutaka Ogawa, and [Nao Sudo](https://sites.google.com/site/naosudo2012/){:target="_blank"}) Bank of Japan IMES Discussion Paper Series 2024-E-12, October 2024.
 
-* [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, [Daisuke Fujii](https://sites.google.com/site/fujii0622/home), and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) June 2022.
-
 ## Selected works in progress
 
 <!-- * Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"}) -->

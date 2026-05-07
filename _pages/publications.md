@@ -12,6 +12,9 @@ author_profile: true
 {% include base_path %}
 
 <!-- <br/> -->
+
+0. [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, [Daisuke Fujii](https://sites.google.com/site/fujii0622/home), and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Scientific Reports***, accepted. (This is a working paper version in June 2022.)
+
 0. [Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks](/files/Fiscal_260406.pdf){:target="_blank"}. ***Japanese Economic Review***, April 2026. [Journal website](https://link.springer.com/article/10.1007/s42973-026-00252-w)
 
 0. [A Measure of Monthly State-level Output in Japan](/files/FNS_20240409.pdf){:target="_blank"}. (joint with [Daisuke Fujii](https://sites.google.com/site/fujii0622/home) and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Japanese Economic Review***, May 2025. [Journal website](https://link.springer.com/article/10.1007/s42973-025-00193-w)
