@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-* Speed Limit Policy and Liquidity Traps (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}, [Sebastian Schmidt](https://sites.google.com/site/econschmidt/), and [Paul Yoo](https://www.paulyoo.net/)) April 2026.
+* Speed Limit Policy and Liquidity Traps. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}, [Sebastian Schmidt](https://sites.google.com/site/econschmidt/), and [Paul Yoo](https://www.paulyoo.net/)) April 2026.
 
-* [Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models](/files/IFvsKF_2024Feb) (joint with Elnura Baiaman kyzy and [Hiroyuki Kubota](https://sites.google.com/view/hiroyuki-kubota/){:target="_blank"}) February 2024.
+* [Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models](/files/IFvsKF_2024Feb){:target="_blank"}. (joint with Elnura Baiaman kyzy and [Hiroyuki Kubota](https://sites.google.com/view/hiroyuki-kubota/){:target="_blank"}) February 2024.
 
 * Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
 
