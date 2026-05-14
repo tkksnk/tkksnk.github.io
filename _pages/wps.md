@@ -15,7 +15,7 @@ author_profile: true
 
 * [Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models](/files/IFvsKF_2024Feb){:target="_blank"}. (joint with Elnura Baiaman kyzy and [Hiroyuki Kubota](https://sites.google.com/view/hiroyuki-kubota/){:target="_blank"}) February 2024.
 
-* Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
+* [Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter?](https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/f3fc0560-8ca5-4b9d-9b3b-b13f6b49c71a/content) (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
 
 <!-- * [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. -->
 
