@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior economist at [ASEAN+3 Macroeconomic Research Office (AMRO)](https://www.amro-asia.org/){:target="_blank"}. Previously I was at Hitotsubashi University, Kobe University, the University of Tokyo, and the Bank of Japan. I received a Ph.D. in Economics at [the Ohio State University](https://economics.osu.edu/){:target="_blank"}. My research interests are in Macroeconomics, Monetary Policy, and Japanese Economy.
+I am currently a senior economist at [ASEAN+3 Macroeconomic Research Office (AMRO)](https://www.amro-asia.org/){:target="_blank"}. Previously I was at Hitotsubashi University, Kobe University, the University of Tokyo, and the Bank of Japan. I received a Ph.D. in Economics at [the Ohio State University](https://economics.osu.edu/){:target="_blank"}. My research interests are in Macroeconomics, Monetary and Fiscal Policies, and Japanese Economy.
+
+Note: The views expressed in this website are those of the author and do not necessarily reflect the official views of the ASEAN+3 Macroeconomic Research Office (AMRO) or its member authorities.
 
 <!-- I am also a fellow of [TCER (Tokyo Center for Economic Research)](https://www.tcer.or.jp/en/){:target="_blank"} and an advisor of [UTEcon](https://utecon.net/en/){:target="_blank"}. -->
 
