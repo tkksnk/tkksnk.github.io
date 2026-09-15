@@ -23,7 +23,7 @@ author_profile: true
 
 ## Policy related works
 
-* [Household Payment Behavior and the Optimal Quantity of CBDC in Japan](/files/CBDC_251215.pdf){:target="_blank"}. (joint with Junko Ishikawa and Meylis Orazov) December 2025. Japanese version is found [here](https://www.nri.com/jp/knowledge/report/20251223_1.html).
+* [Household Payment Behavior and the Optimal Quantity of CBDC in Japan](/files/CBDC_260914.pdf){:target="_blank"}. (joint with Junko Ishikawa and Meylis Orazov) September 2026. Japanese version is found [here](https://www.nri.com/jp/knowledge/report/20251223_1.html).
 
 * [On the Interaction between Monetary and Fiscal Policy: Developments in Macroeconomics since the Global Financial Crisis](https://www.imes.boj.or.jp/research/abstracts/english/24-E-12.html){:target="_blank"}. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}, Yusuke Oh, Yasutaka Ogawa, and [Nao Sudo](https://sites.google.com/site/naosudo2012/){:target="_blank"}) Bank of Japan IMES Discussion Paper Series 2024-E-12, October 2024.
 
